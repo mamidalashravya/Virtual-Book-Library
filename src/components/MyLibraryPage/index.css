@@ -1,0 +1,23 @@
+.back-btn{
+  margin-left: 650px;
+  border-radius: 15px;
+  height: 30px;
+  width: 180px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+}
+.library-item{
+    background-color: rgba(135, 250, 135, 0.166);
+    border-radius: 20px;
+    height: 200px;
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+}
+p {
+    margin: 10px;
+
+}

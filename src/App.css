@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.Search-Bar {
+  margin: 50px;
+  border-radius: 15px;
+  height: 30px;
+  width: 180px;
+  margin-top: 15px;
+  font-size: 13px;
+  text-align: center;
+  color: black;
+}
+
+.button {
+  margin-left: 650px;
+  border-radius: 15px;
+  height: 30px;
+  width: 180px;
+}

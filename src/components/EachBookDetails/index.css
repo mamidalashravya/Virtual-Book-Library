@@ -1,0 +1,24 @@
+.book-details-container{
+    background-color: rgba(135, 250, 135, 0.166);
+    height: 100vh;
+    
+}
+.book-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.title {
+    color: black;
+    font-family: "Bree Serif";
+}
+
+.back-btn{
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 15px;
+    height: 40px;
+    width: 80px;
+}
